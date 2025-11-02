@@ -13,7 +13,7 @@ import {
     loginUser,
     signupUser,
     authErrorMessage,
-} from './authentication.js';
+} from './authentication.js'
 
 
 // --- Login and Signup Page ---
